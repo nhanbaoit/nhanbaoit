@@ -12,7 +12,7 @@
 ### 📫 Contact
 - 📧 Email: nhanbao.0410@gmail.com
 - 📍 Location: Ho Chi Minh City, Vietnam.
-
+![snake gif](https://raw.githubusercontent.com/nhanbaoit/nhanbaoit/output/github-snake.svg)
   
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nhan.bao.730172) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bao-nguyen-nhan-b64251381/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nhanbao.0410@gmail.com) 
